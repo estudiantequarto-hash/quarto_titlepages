@@ -1,13 +1,12 @@
 ---
-title: A Sample Title - The SocioEconomic Aspects of Stock Assessments
-subtitle: with non-English diacritics in the author names. See documentation.
+title: Redes Sociales y Polarización Política 
+subtitle:Una Revisión de la Literatura sobre el Impacto Digital en la División Social
 author:
-  - name: Jane Doe
+  - name: Juliana López Páez 
     affiliations:
-      - name: Minnesota Department of Natural Resources
-        address: 500 Lafayette Road Saint Paul, MN 55155
-      - name: University of Minnesota
-        department: Department of Mathematics
+      - name: Laboratorio Métodos Mixtos 
+      
+        department: Pregrado de ciencias políticas: 
   - name: Eva Nováková
     affiliations:
       - name: Czech University of Life Sciences
